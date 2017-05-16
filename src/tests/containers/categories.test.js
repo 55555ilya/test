@@ -6,6 +6,8 @@ import configureStore from 'redux-mock-store'
 import { mount } from 'enzyme';
 import sinon from 'sinon';
 
+// testing of properly connection Component to Container
+
 const createStore = () => {
   const middlewares = [];
   const initialState = {
