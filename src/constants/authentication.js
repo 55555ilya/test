@@ -1,0 +1,1 @@
+export const TOKEN_COOKIE_LIFE_LENGTH = 10*60*3600;
